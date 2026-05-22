@@ -160,4 +160,16 @@ Professor & Desenvolvedor
 
 ---
 
+## 💡 Exemplos de Uso no Dia a Dia
+
+O Git pode ser utilizado para:
+
+* 👨‍💻 Salvar alterações no código com segurança
+* 🤝 Trabalhar em equipe sem sobrescrever arquivos
+* 🕒 Recuperar versões antigas do projeto
+* 🚀 Organizar entregas e atualizações
+* 🔍 Identificar quem fez cada alteração no código
+
+---
+
 > 💬 *"Versionar não é só salvar código, é contar a história do seu projeto."* 🚀
